@@ -126,6 +126,24 @@
     ]
   },
   {
+    "name": "Aniyomi: PornHub",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.pornhub",
+    "apk": "aniyomi-pt.pornhub-v14.1.apk",
+    "lang": "pt",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "PornHub",
+        "lang": "pt",
+        "id": "1777427974462354176",
+        "baseUrl": "https://www.pornhub.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: PornoCarioca",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.pornocarioca",
     "apk": "aniyomi-pt.pornocarioca-v14.1.apk",
