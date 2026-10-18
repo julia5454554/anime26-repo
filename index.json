@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: Animes Hentai",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeshentai",
+    "apk": "aniyomi-pt.animeshentai-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Animes Hentai",
+        "lang": "pt-BR",
+        "id": "7436580759465900663",
+        "baseUrl": "https://animeshentai.biz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: CosXplay",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cosxplay",
     "apk": "aniyomi-pt.cosxplay-v14.4.apk",
@@ -31,6 +49,24 @@
         "lang": "pt-BR",
         "id": "2891990896582921136",
         "baseUrl": "https://hentais3d.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Hentai Legendado",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.hentailegendado",
+    "apk": "aniyomi-pt.hentailegendado-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hentai Legendado",
+        "lang": "pt-BR",
+        "id": "118013129532297960",
+        "baseUrl": "https://hentailegendado.com",
         "versionId": 1
       }
     ]
