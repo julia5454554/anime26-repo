@@ -21,15 +21,15 @@
     "name": "Aniyomi: CosplayTele",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cosplaytele",
     "apk": "aniyomi-pt.cosplaytele-v14.1.apk",
-    "lang": "pt",
+    "lang": "pt-BR",
     "code": 1,
     "version": "14.1",
     "nsfw": 1,
     "sources": [
       {
         "name": "CosplayTele",
-        "lang": "pt",
-        "id": "3081936250516464852",
+        "lang": "pt-BR",
+        "id": "3872164682165722120",
         "baseUrl": "https://cosplaytele.com",
         "versionId": 1
       }
