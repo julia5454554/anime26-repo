@@ -38,16 +38,16 @@
   {
     "name": "Aniyomi: CosXplay",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cosxplay",
-    "apk": "aniyomi-pt.cosxplay-v14.4.apk",
-    "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "apk": "aniyomi-pt.cosxplay-v14.5.apk",
+    "lang": "pt",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "sources": [
       {
         "name": "CosXplay",
-        "lang": "pt-BR",
-        "id": "8451159534062003231",
+        "lang": "pt",
+        "id": "5081320401945246683",
         "baseUrl": "https://cosxplay.com",
         "versionId": 1
       }
