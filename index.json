@@ -54,6 +54,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Eporner",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.eporner",
+    "apk": "aniyomi-pt.eporner-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Eporner",
+        "lang": "pt-BR",
+        "id": "1134527302294499811",
+        "baseUrl": "https://pt.eporner.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Hentai3D",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.hentai3d",
     "apk": "aniyomi-pt.hentai3d-v14.2.apk",
@@ -247,6 +265,24 @@
         "lang": "pt-BR",
         "id": "3718461048940107484",
         "baseUrl": "https://superhentais.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Xanimu",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.xanimu",
+    "apk": "aniyomi-pt.xanimu-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Xanimu",
+        "lang": "pt-BR",
+        "id": "7849844161889250036",
+        "baseUrl": "https://xanimu.com",
         "versionId": 1
       }
     ]
